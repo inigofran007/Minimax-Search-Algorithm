@@ -1,6 +1,6 @@
 <h1>EX-6 : IMPLEMENT MINIMAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME</h1> 
-<h3>Name : BLESSON J </h3>
-<h3>Register Number : 212224030005 </h3>
+<h3>Name : INIGO FRAN A </h3>
+<h3>Register Number : 212224030011 </h3>
 <H2>AIM :</H4>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
